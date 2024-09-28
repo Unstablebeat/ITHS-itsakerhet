@@ -1,0 +1,9 @@
+banana
+milk
+cheese
+yoghurt
+bread
+butter
+cereal
+apple
+pineapple

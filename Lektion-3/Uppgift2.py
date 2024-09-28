@@ -10,3 +10,4 @@ while line:
 for index, attempt in enumerate(result):
     print(index, attempt)
 
+file.close()
