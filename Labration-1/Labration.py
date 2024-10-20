@@ -1,4 +1,3 @@
-import nmap
 from scanner import _scan, _scan_os
 
 def ip_adress():
@@ -167,3 +166,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
